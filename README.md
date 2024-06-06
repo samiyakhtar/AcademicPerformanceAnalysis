@@ -1,4 +1,4 @@
-# Academic-Performance-Analysis
+# Academic Performance Analysis
 
 This dataset was collected in Portugal by Professors Paulo Cortez and Alice Silva from the University of Minho. Its original purpose was to investigate the reasons behind Portugal's lagging performance in educational metrics, such as mathematics and spoken language, compared to the rest of Europe. 
 
